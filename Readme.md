@@ -15,3 +15,33 @@ To get a glimpse of my application's functionality, click on the image below to 
        width="600" />
 </a>
 
+## 🚀 Features
+
+### Secure Appointment Booking
+MedBooker offers a robust system that simplifies scheduling appointments between patients and healthcare providers. 
+
+### Three-Tier Authentication
+We implement a comprehensive three-tier authentication system that includes:
+- **Patients**: Secure access for patients to manage their appointments.
+- **Doctors**: Verified access for healthcare professionals to view and manage their schedules.
+- **Admins**: Administrative control with Role-Based Access Control (RBAC) to ensure that only authorized personnel can access sensitive information.
+
+### Integrated Payments
+We've integrated **Razorpay** to facilitate secure online payments, allowing users to conveniently pay appointment fees directly through the platform. This ensures a smooth and efficient payment process for both patients and healthcare providers.
+## 🛠️ Technologies Used
+
+The application is built with the following technologies:
+
+## Tech Stack
+
+- **Frontend:**
+  - React
+  - Tailwind CSS
+
+- **Backend:**
+  - Node.js
+  - Express.js
+  - MongoDB
+
+- **Payment Integration:**
+  - Razorpay
