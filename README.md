@@ -1,6 +1,6 @@
-# MedBooker
+# HealthEase
 
-Welcome to MedBooker, where we've developed a secure appointment booking system for healthcare providers, featuring three-tier authentication and seamless online payments through Razorpay for a hassle-free experience.
+Welcome to HealthEase, where we've developed a secure appointment booking system for healthcare providers, featuring three-tier authentication and seamless online payments through Razorpay for a hassle-free experience.
 
 ## 🧑🏻‍💻 How It Works
 
@@ -18,7 +18,7 @@ To get a glimpse of my application's functionality, click on the image below to 
 ## 🚀 Features
 
 ### Secure Appointment Booking
-MedBooker offers a robust system that simplifies scheduling appointments between patients and healthcare providers. 
+HealthEase offers a robust system that simplifies scheduling appointments between patients and healthcare providers. 
 
 ### Three-Tier Authentication
 We implement a comprehensive three-tier authentication system that includes:
