@@ -15,10 +15,6 @@ To get a glimpse of my application's functionality, click on the image below to 
        width="600" />
 </a>
 
-<p align="center" style="font-size: 18px; font-weight: bold; color: #ff5733; margin-top: 10px;">
-  📹 **Watch the Video!** 🎬
-</p>
-
 ## 🚀 Features
 
 ### Secure Appointment Booking
