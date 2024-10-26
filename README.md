@@ -2,9 +2,7 @@
 
 Welcome to HealthEase, where we've developed a secure appointment booking system for healthcare providers, featuring three-tier authentication and seamless online payments through Razorpay for a hassle-free experience.
 
-## 🧑🏻‍💻 How It Works
-
-To get a glimpse of my application's functionality, click on the image below to watch a demo video:
+## 01 How It Works 🧑🏻‍💻
 
 <!-- Highlighted Image with Border and Emojis -->
 <a href="https://drive.google.com/file/d/1xTuUmRJk1PizU4ZGWJ_s1O04huqnNZfh/view?usp=drive_link" 
@@ -15,7 +13,7 @@ To get a glimpse of my application's functionality, click on the image below to 
        width="600" />
 </a>
 
-## 🚀 Features
+## 02 Features 🚀
 
 ### Secure Appointment Booking
 HealthEase offers a robust system that simplifies scheduling appointments between patients and healthcare providers. 
