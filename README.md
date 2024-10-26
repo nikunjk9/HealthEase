@@ -13,36 +13,34 @@ Welcome to HealthEase, where we've developed a secure appointment booking system
        width="600" />
 </a>
 
+<br>
+
 ## 02 Features 🚀
 
-### Secure Appointment Booking
+### 1. Secure Appointment Booking
 HealthEase offers a robust system that simplifies scheduling appointments between patients and healthcare providers. 
 
-### Three-Tier Authentication
+### 2. Three-Tier Authentication
 We implement a comprehensive three-tier authentication system that includes:
 - **Patients**: Secure access for patients to manage their appointments.
 - **Doctors**: Verified access for healthcare professionals to view and manage their schedules.
 - **Admins**: Administrative control with Role-Based Access Control (RBAC) to ensure that only authorized personnel can access sensitive information.
 
-### Integrated Payments
+### 3. Integrated Payments
 We've integrated **Razorpay** to facilitate secure online payments, allowing users to conveniently pay appointment fees directly through the platform. This ensures a smooth and efficient payment process for both patients and healthcare providers.
-## 🛠️ Technologies Used
+
+<br>
+
+## 03 Technologies Used 🛠️
 
 The application is built with the following technologies:
 
-## Tech Stack
 
-- **Frontend:**
-  - React
-  - Tailwind CSS
+- **Frontend:**: React, Tailwind CSS
 
-- **Backend:**
-  - Node.js
-  - Express.js
-  - MongoDB
+- **Backend:**: Node.js, Express.js, MongoDB
 
-- **Payment Integration:**
-  - Razorpay
+- **Payment Integration:**: Razorpay
 
 
 
