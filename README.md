@@ -27,7 +27,7 @@ HealthEase offers a robust system that simplifies **scheduling appointments betw
 - `Admins:` Administrative control with Role-Based Access Control (RBAC) to ensure that only authorized personnel can access sensitive information.
 
 ### 3. Integrated Payments
-We've integrated `Razorpay` to facilitate secure online payments, allowing users to conveniently pay appointment fees directly through the platform. This ensures a smooth and efficient payment process for both patients and healthcare providers.
+We've integrated `Razorpay` to facilitate secure `online payments`, allowing users to conveniently pay appointment fees directly through the platform. This ensures a smooth and efficient payment process for both patients and healthcare providers.
 
 <br>
 
