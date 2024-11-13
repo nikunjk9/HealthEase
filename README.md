@@ -2,17 +2,6 @@
 
 Welcome to `HealthEase`, where we've developed a secure appointment booking system for healthcare providers, featuring three-tier authentication and seamless online payments through Razorpay for a hassle-free experience.
 
-## 01 How It Works 🧑🏻‍💻
-
-<!-- Highlighted Image with Border and Emojis -->
-<a href="https://drive.google.com/file/d/1xTuUmRJk1PizU4ZGWJ_s1O04huqnNZfh/view?usp=drive_link" 
-   style="display: inline-block; text-decoration: none; border: 5px solid #ff5733; border-radius: 10px; padding: 5px; box-shadow: 0px 0px 15px rgba(0,0,0,0.3); transition: transform 0.3s, box-shadow 0.3s;">
-  <img src="https://github.com/Unstoppable-NidhiLPU/MedBooker/blob/main/website.png" 
-       alt="Watch the video" 
-       style="border-radius: 10px;" 
-       width="600" />
-</a>
-
 <br>
 
 ## 02 Features 🚀
