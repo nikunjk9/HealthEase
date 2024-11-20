@@ -2,6 +2,8 @@
 
 Welcome to `HealthEase`, where we've developed a secure appointment booking system for healthcare providers, featuring three-tier authentication and seamless online payments through Razorpay for a hassle-free experience.
 
+![Login/Signup](Home_Page.png)
+
 <br>
 
 ## 02 Features 🚀
@@ -33,6 +35,19 @@ The application is built with the following technologies:
 
 
 
+## ScreenShots:
 
+### Top Doctors
+![Login/Signup](Top_doctors.png)
 
+### All doctors
+![Login/Signup](All_doctors.png)
+
+### Appointment Booking
+![Login/Signup](Appointment_Booking.png)
    
+### Appointment Booking
+![Login/Signup](About_Page.png)
+
+### Appointment Booking
+![Login/Signup](Contact_Page.png)
